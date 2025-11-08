@@ -30,7 +30,7 @@ The current stack is:
 - Flutter
 - Azure Pipelines
 
-📫 You can reach me through lfreire_dev@hotmail.com.
+📫 You can reach me through hello@lfreiredev.com.
 
 <!---
 lfreiredev/lfreiredev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
